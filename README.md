@@ -1,8 +1,8 @@
 # Learn_RestAPI_Auth_mongodb
 Rest API ini dibuat dengan nodejs dan mongodb.
 
-//run local
+//run local:
 node index.js
 
-//port in localhost
+//port in localhost:
 3000
